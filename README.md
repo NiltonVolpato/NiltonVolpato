@@ -96,7 +96,7 @@ A Rust smart pointer that allocates memory in a self-managed arena.
 <div align="center">
 
 <picture>
-    <img src="assets/construction5.gif" />
+    <img src="assets/pikachu-under-construction.gif" />
 </picture>
 
 *More projects coming soon... when I'm done procrastinating.*
@@ -115,7 +115,7 @@ Leave a comment on the [guestbook](https://github.com/NiltonVolpato/NiltonVolpat
     <picture><img src="assets/88x31-any-browser.gif" /></picture>
     <picture><img src="assets/88x31-emacs.gif" /></picture>
     <picture><img src="assets/88x31-geocities.gif" /></picture>
-    <picture><img src="assets/88x31-macmade3.gif" /></picture>
+    <picture><img src="assets/88x31-macmade-wht.gif" /></picture>
     <picture><img src="assets/88x31-twitter.gif" /></picture>
     <picture><img src="assets/88x31-w3c.gif" /></picture>
 </p>
