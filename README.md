@@ -1,19 +1,25 @@
 <p align="center" />
-    <img src="assets/binary-header-2.gif" width="80%" />
+    <picture><img src="assets/binary-header-2.gif" /></picture>
 </p>
 
-<h1 align="center"><img src="assets/torch.gif" width="30" /> Welcome to my page <img src="assets/torch.gif" width="30" /></h1>
+<h1 align="center"><picture><img src="assets/torch.gif" width="30" /></picture> Welcome to my page <picture><img src="assets/torch.gif" width="30" /></picture></h1>
 
 <p align="center">
-    You are visitor number: <img src="assets/counter.gif" />
+    You are visitor number: <picture><img src="assets/counter.gif" /></picture>
 </p>
 
 I'm writing open-source code to selfishly solve my own problems. But hey, feel free to browse around because maybe my problems are also yours!
 
-I've worked on systems, scientific computing, AI, languages & DSLs, embedded, trading bots, distributed systems, databases, and probably more — it might be easier to list what I *haven't* worked on. Largely in C++ and Python, and acquainted with representatives of functional, declarative, logic, meta and rule-based programming paradigms. More recently Rust and some Zig which have different philosophies but bring a lot of the modern features in ergonomics and type-system we developed over these years. But that's why I'm obviously working on my own language too.
+I've worked on systems, scientific computing, AI, languages & DSLs, embedded,
+trading bots, distributed systems, databases, and probably more. Largely in C++
+and Python, and acquainted with representatives of functional, declarative,
+logic, meta and rule-based programming paradigms. Rust probably since release
+1.5, and more recently Zig. They have different philosophies but bring a lot of
+the modern features in ergonomics and type-system we developed over these years.
+And also my own language!
 
 <p align="center">
-    <img src="assets/pacman-148.gif" width="50%"/>
+    <picture><img src="assets/pacman-148.gif" width="50%"/></picture>
 </p>
 
 ## <img src="assets/new-left.gif" /> What I'm working on <img src="assets/new-right.gif" />
@@ -39,7 +45,7 @@ Plugins for Claude Code, including the [Master Programmer](https://github.com/Ni
 
 ## Other projects
 <p align="center">
-    <img src="assets/ufo-087.gif" width="50%"/>
+    <picture><img src="assets/ufo-087.gif" width="50%"/></picture>
 </p>
 
 <table>
@@ -84,30 +90,32 @@ A Rust smart pointer that allocates memory in a self-managed arena.
 </table>
 
 <p align="center">
-    <img src="assets/cheetah-057.gif" width="50%" />
+    <picture><img src="assets/cheetah-057.gif" width="50%" /></picture>
 </p>
 
 <div align="center">
 
-<img src="assets/construction5.gif" />
+<picture>
+    <img src="assets/construction5.gif" />
+</picture>
 
 *More projects coming soon... when I'm done procrastinating.*
 
-</div>
+<picture><img src="assets/divider1.gif" width="80%" /></picture>
 
-<img src="assets/divider1.gif" width="80%" />
+</div>
 
 ## 🖋️ Sign My Guestbook
 
 Leave a comment on the [guestbook](https://github.com/NiltonVolpato/NiltonVolpato/discussions).
 
-<img src="assets/take-off-229.gif" width="100%" />
+<picture><img src="assets/take-off-229.gif" width="100%" /></picture>
 
 <p align="center">
-    <img src="assets/88x31-any-browser.gif" />
-    <img src="assets/88x31-emacs.gif" />
-    <img src="assets/88x31-geocities.gif" />
-    <img src="assets/88x31-macmade3.gif" />
-    <img src="assets/88x31-twitter.gif" />
-    <img src="assets/88x31-w3c.gif" />
+    <picture><img src="assets/88x31-any-browser.gif" /></picture>
+    <picture><img src="assets/88x31-emacs.gif" /></picture>
+    <picture><img src="assets/88x31-geocities.gif" /></picture>
+    <picture><img src="assets/88x31-macmade3.gif" /></picture>
+    <picture><img src="assets/88x31-twitter.gif" /></picture>
+    <picture><img src="assets/88x31-w3c.gif" /></picture>
 </p>
