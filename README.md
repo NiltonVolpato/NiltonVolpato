@@ -1,20 +1,28 @@
-<img src="assets/flames.gif" width="100%" />
+<p align="center" />
+    <img src="assets/binary-header-2.gif" width="80%" />
+</p>
 
-# <img src="assets/torch.gif" width="30" /> Welcome to my page <img src="assets/torch.gif" width="30" />
+<h1 align="center"><img src="assets/torch.gif" width="30" /> Welcome to my page <img src="assets/torch.gif" width="30" /></h1>
 
-You are visitor number: <img src="assets/counter2.gif" />
+<p align="center">
+    You are visitor number: <img src="assets/counter.gif" />
+</p>
 
 I'm writing open-source code to selfishly solve my own problems. But hey, feel free to browse around because maybe my problems are also yours!
 
 I've worked on systems, scientific computing, AI, languages & DSLs, embedded, trading bots, distributed systems, databases, and probably more — it might be easier to list what I *haven't* worked on. Largely in C++ and Python, and acquainted with representatives of functional, declarative, logic, meta and rule-based programming paradigms. More recently Rust and some Zig which have different philosophies but bring a lot of the modern features in ergonomics and type-system we developed over these years. But that's why I'm obviously working on my own language too.
 
-<img src="assets/divider7.gif" width="100%" />
+<p align="center">
+    <img src="assets/pacman-148.gif" width="50%"/>
+</p>
 
-## What I'm working on
+## <img src="assets/new-left.gif" /> What I'm working on <img src="assets/new-right.gif" />
 
-### [Melbi](https://github.com/melbi-lang/melbi)
+### [Melbi](https://github.com/melbi-lang/melbi) <img src="assets/hot-small.gif" />
 
 A type-safe, high-performance embedded expression language with modern functional programming features. Lets developers support user-defined logic that's checked at compile-time to catch errors early. Written in Rust.
+
+**Take the [programming language checklist](programming-language-checklist.md)**!
 
 Below is a little demo of the REPL with on-the-fly semantic syntax highlighting, highlighting of parsing errors (not only lexical errors), automatic multi-line detection support, auto-indentation
 ![Melbi Demo](https://raw.githubusercontent.com/melbi-lang/melbi-assets/main/vhs/melbi-cli.gif)
@@ -29,9 +37,10 @@ Plugins for Claude Code, including the [Master Programmer](https://github.com/Ni
 
 ![Master Programmer Demo](https://raw.githubusercontent.com/NiltonVolpato/claude-plugins/main/plugins/master-programmer/assets/demo.gif)
 
-<img src="assets/divider7.gif" width="100%" />
-
 ## Other projects
+<p align="center">
+    <img src="assets/ufo-087.gif" width="50%"/>
+</p>
 
 <table>
 <tr>
@@ -46,6 +55,17 @@ Flappy Bird in your terminal. Because why not.
 </td>
 <td width="50%" valign="top">
 
+**[python-progressbar](https://github.com/NiltonVolpato/python-progressbar)**
+
+The OG text-mode progress bar library for Python. Pioneered the `for item in progress(seq)` pattern that's now everywhere.
+
+<img src="https://raw.githubusercontent.com/NiltonVolpato/python-progressbar/master/assets/progressbar.gif" width="400" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[zcache](https://github.com/NiltonVolpato/zcache)**
 
 A simple, low-footprint, in-memory cache written in Zig. The auto-spawning daemon takes 1 MB of RAM on my M4 Mac.
@@ -53,8 +73,6 @@ A simple, low-footprint, in-memory cache written in Zig. The auto-spawning daemo
 <img src="https://raw.githubusercontent.com/NiltonVolpato/zcache/main/assets/zcache.gif" width="400" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[arena-box](https://github.com/NiltonVolpato/arena-box)**
@@ -62,17 +80,12 @@ A simple, low-footprint, in-memory cache written in Zig. The auto-spawning daemo
 A Rust smart pointer that allocates memory in a self-managed arena.
 
 </td>
-<td width="50%" valign="top">
-
-**[python-progressbar](https://github.com/NiltonVolpato/python-progressbar)**
-
-The OG text-mode progress bar library for Python. Pioneered the `for item in progress(seq)` pattern that's now everywhere.
-
-</td>
 </tr>
 </table>
 
-<img src="assets/divider1.gif" width="100%" />
+<p align="center">
+    <img src="assets/cheetah-057.gif" width="50%" />
+</p>
 
 <div align="center">
 
@@ -82,10 +95,19 @@ The OG text-mode progress bar library for Python. Pioneered the `for item in pro
 
 </div>
 
-<img src="assets/divider1.gif" width="100%" />
+<img src="assets/divider1.gif" width="80%" />
 
-## Links
+## 🖋️ Sign My Guestbook
 
-[𝕏 @NiltonVolpato](https://x.com/NiltonVolpato) · [LinkedIn](https://linkedin.com/in/nilton-volpato/)
+Leave a comment on the [guestbook](https://github.com/NiltonVolpato/NiltonVolpato/discussions).
 
-<img src="assets/flames.gif" width="100%" />
+<img src="assets/take-off-229.gif" width="100%" />
+
+<p align="center">
+    <img src="assets/88x31-any-browser.gif" />
+    <img src="assets/88x31-emacs.gif" />
+    <img src="assets/88x31-geocities.gif" />
+    <img src="assets/88x31-macmade3.gif" />
+    <img src="assets/88x31-twitter.gif" />
+    <img src="assets/88x31-w3c.gif" />
+</p>
