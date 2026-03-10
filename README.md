@@ -1,14 +1,12 @@
 <img src="assets/flames.gif" width="100%" />
 
-# <img src="assets/torch.gif" width="30" /> Hey, I'm Nilton <img src="assets/torch.gif" width="30" />
+# <img src="assets/torch.gif" width="30" /> Welcome to my page <img src="assets/torch.gif" width="30" />
 
-<img src="assets/counter2.gif" />
+You are visitor number: <img src="assets/counter2.gif" />
 
-Software engineer in San Francisco. I'm writing open-source code to selfishly solve my own problems. But hey, feel free to browse around because maybe my problems are also yours!
+I'm writing open-source code to selfishly solve my own problems. But hey, feel free to browse around because maybe my problems are also yours!
 
-I've worked on systems, scientific computing, AI, languages & DSLs, embedded, trading bots, distributed systems, databases, and probably more — it might be easier to list what I *haven't* worked on.
-
-C++, Rust, Python, JS/TS, Zig, my own languages, and whatever else the project needs. Except PHP.
+I've worked on systems, scientific computing, AI, languages & DSLs, embedded, trading bots, distributed systems, databases, and probably more — it might be easier to list what I *haven't* worked on. Largely in C++ and Python, and acquainted with representatives of functional, declarative, logic, meta and rule-based programming paradigms. More recently Rust and some Zig which have different philosophies but bring a lot of the modern features in ergonomics and type-system we developed over these years. But that's why I'm obviously working on my own language too.
 
 <img src="assets/divider7.gif" width="100%" />
 
@@ -18,11 +16,12 @@ C++, Rust, Python, JS/TS, Zig, my own languages, and whatever else the project n
 
 A type-safe, high-performance embedded expression language with modern functional programming features. Lets developers support user-defined logic that's checked at compile-time to catch errors early. Written in Rust.
 
+Below is a little demo of the REPL with on-the-fly semantic syntax highlighting, highlighting of parsing errors (not only lexical errors), automatic multi-line detection support, auto-indentation
 ![Melbi Demo](https://raw.githubusercontent.com/melbi-lang/melbi-assets/main/vhs/melbi-cli.gif)
 
 ### [Tekton](https://github.com/NiltonVolpato/tekton)
 
-A multi-agent harness that gives AI systems persistent terminal access, enabling them to self-evolve by composing any CLI tool into emergent capabilities. Written in Rust.
+An autonomous (or interactive) multi-agent harness that gives AI systems persistent terminal access, allows them to naturally compose any CLI tool into new capabilities, and it supports a meta agentic role dedicated to understanding and improving the system itself. Currently in very early stages. Written in Rust, because since RAM prices are off the charts, you'd rather run an agentic system that takes 20 MB of RAM instead of 2 GB of RAM and fit 10x-100x more.
 
 ### [Claude Plugins](https://github.com/NiltonVolpato/claude-plugins)
 
@@ -49,7 +48,7 @@ Flappy Bird in your terminal. Because why not.
 
 **[zcache](https://github.com/NiltonVolpato/zcache)**
 
-A simple, low-footprint, in-memory cache written in Zig.
+A simple, low-footprint, in-memory cache written in Zig. The auto-spawning daemon takes 1 MB of RAM on my M4 Mac.
 
 <img src="https://raw.githubusercontent.com/NiltonVolpato/zcache/main/assets/zcache.gif" width="400" />
 
