@@ -24,7 +24,7 @@ And also my own language!
 
 ## <img src="assets/new-left.gif" /> What I'm working on <img src="assets/new-right.gif" />
 
-### [Melbi](https://github.com/melbi-lang/melbi) <img src="assets/hot-small.gif" />
+### 🖖 [Melbi](https://github.com/melbi-lang/melbi) <img src="assets/hot-small.gif" />
 
 A type-safe, high-performance embedded expression language with modern functional programming features. Lets developers support user-defined logic that's checked at compile-time to catch errors early. Written in Rust.
 
